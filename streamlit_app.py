@@ -29,7 +29,7 @@ tab1, tab2= st.tabs(['① Topic Modeling' , '② Image Analytics'])
 test_img = Image.open('orange_text.png')
 
 with tab1:
-  st.write('hello')
+  st.write('hello!')
 #    st.image(test_img)
     
 with tab2:
