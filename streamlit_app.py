@@ -26,7 +26,7 @@ st.write("주요 결과물 입니다")
 #----------------------------------------------------------------------------------------------------
 # 탭 생성 : 첫번째 탭의 이름은 Tab A 로, Tab B로 표시합니다. 
 tab1, tab2= st.tabs(['① Topic Modeling' , '② Image Analytics'])
-test_img = Image.open('orange_text.png')
+#test_img = Image.open('orange_text.png')
 
 with tab1:
   st.write('hello!')
